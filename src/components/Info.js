@@ -26,7 +26,6 @@ function Info() {
         </p>
       </li>
     </ul>
-    <h1></h1>
   </section>
 }
 
